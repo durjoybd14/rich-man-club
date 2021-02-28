@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from 'react/cjs/react.development';
+import Peoples from './components/Peoples/Peoples';
+import TotalIncome from './components/Peoples/TotalIncome/TotalIncome';
+import richMans from './rich-people.json'
+
 
 function App() {
+  const [richPeoples, setRichPeoples] = useState([])
+  useEffect(() => {
+    setRichPeoples(richMans)
+  }, []);
+
+  const [cart, setCart] = useState([]);
+  const handleAddCount = (people) => {
+
+    const newCart = [...cart, people];
+    setCart(newCart);
+  }
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+    <div style={{ textAlign: 'center' }}>
+      <h1>Selected People: {cart.length}</h1>
+      <TotalIncome cart={cart}></TotalIncome>
+      {
+        richPeoples.map(richPeople => <Peoples richPeople={richPeople} key={richPeople.id} handleAddCount={handleAddCount}></Peoples>)
+      }
+
     </div>
   );
 }
+
+
 
 export default App;

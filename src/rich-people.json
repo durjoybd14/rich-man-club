@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "name": "Jeff Bezos Net Worth",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/10/bezos-1-e1531776508374.jpg",
+    "email": "jeff@april.biz",
+    "phone": "1-770-736-80312",
+    "country": "America",
+    "income": 187
+  },
+  {
+    "id": 2,
+    "name": "Elon Musk Net Worth",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2010/06/Elon-Musk.jpg",
+    "email": "musk@april.biz",
+    "phone": "1-770-736-80310",
+    "country": "America",
+    "income": 176
+  },
+  {
+    "id": 3,
+    "name": "Bill Gates",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/Bill-Gates.jpg",
+    "email": "bill@april.biz",
+    "phone": "1-770-736-80313",
+    "country": "America",
+    "income": 137
+  },
+  {
+    "id": 4,
+    "name": "Bernard Arnault",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/Bernard-Arnault-2.jpg",
+    "email": "arnault@april.biz",
+    "phone": "1-770-736-80314",
+    "country": "France",
+    "income": 116
+  },
+  {
+    "id": 5,
+    "name": "Mark Zuckerberg",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/10/Mark-Zuckerberg-1.jpg",
+    "email": "mark@april.biz",
+    "phone": "1-770-736-80315",
+    "country": "America",
+    "income": 104
+  },
+  {
+    "id": 6,
+    "name": "Zhong Shanshan",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2021/01/zh.jpg",
+    "email": "zhong@april.biz",
+    "phone": "1-770-736-80316",
+    "country": "China",
+    "income": 98
+  },
+  {
+    "id": 7,
+    "name": "Larry Page",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/larry.jpg",
+    "email": "page@april.biz",
+    "phone": "1-770-736-80714",
+    "income": 97
+  },
+  {
+    "id": 8,
+    "name": "Sergey Brin",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/GettyImages-885129372.jpg",
+    "email": "brin@april.biz",
+    "phone": "1-770-736-85317",
+    "country": "Russia",
+    "income": 94
+  },
+  {
+    "id": 9,
+    "name": "Warren Buffett",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/Warren-Buffett.jpg",
+    "email": "buffett@april.biz",
+    "phone": "1-770-736-80612",
+    "country": "Ameria",
+    "income": 93
+  },
+  {
+    "id": 10,
+    "name": "Steve Ballmer",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/Steve-Ballmer-e1591728533953.jpg",
+    "email": "steve@april.biz",
+    "phone": "1-770-736-85712",
+    "country": "America",
+    "income": 87
+  },
+  {
+    "id": 11,
+    "name": "Larry Ellison",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/Larry-Ellison.jpg",
+    "email": "larry@april.biz",
+    "phone": "1-770-736-85052",
+    "country": "America",
+    "income": 80
+  },
+  {
+    "id": 12,
+    "name": "Mukesh Ambani",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2009/09/Mukesh-Ambani-e1562257538371.jpg",
+    "email": "ambani@april.biz",
+    "phone": "1-770-736-87312",
+    "country": "India",
+    "income": 76
+  },
+  {
+    "id": 13,
+    "name": "Françoise Bettencourt-Meyers",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2017/10/ffb.jpg",
+    "email": "meyers@april.biz",
+    "phone": "1-770-736-85312",
+    "country": "France",
+    "income": 75
+  },
+  {
+    "id": 14,
+    "name": "Ma Huateng",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2012/06/Pony-Ma-1.jpg",
+    "email": "huateng@april.biz",
+    "phone": "1-770-736-80312",
+    "country": "China",
+    "income": 72
+  },
+  {
+    "id": 15,
+    "name": "Colin Huang",
+    "img": "https://vz.cnwimg.com/thumbc-300x300/wp-content/uploads/2020/05/ch.jpg",
+    "email": "Jeff@april.biz",
+    "phone": "1-770-736-85312",
+    "country": "China",
+    "income": 70
+  }
+]
